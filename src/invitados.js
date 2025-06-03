@@ -1,4 +1,4 @@
-export const listaInvitados = [
+export default [
   // Mujeres
   { nombre: "Anayte Álvarez", genero: "F", pases: 1 },
   { nombre: "Allison Chay", genero: "F", pases: 1 },
