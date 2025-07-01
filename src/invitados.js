@@ -72,5 +72,6 @@ export default [
   { nombre: "Jose Eduardo Martínez", genero: "M", pases: 1 },
   { nombre: "Rodrigo García", genero: "M", pases: 1 },
   { nombre: "Julio Díaz", genero: "M", pases: 1 },
-  { nombre: "Josué Méndez", genero: "M", pases: 1 }
+  { nombre: "Josué Méndez", genero: "M", pases: 1 },
+  { nombre: "José Alvarado", genero: "M", pases: 1 }
 ]
